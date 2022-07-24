@@ -11,6 +11,7 @@ Type=0x4b,0
 
 
 [_line]
+Type=0x20
 ;GRMN_TYPE: Contour Lines/MINOR_CONTOUR/Minor land-based contour line/Non NT
 UseOrientation=N
 LineWidth=1
